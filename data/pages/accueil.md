@@ -31,6 +31,7 @@ Du fait de l'évolution très rapide des technologies dans ce secteur, certains 
 
 ### Quelques ressources supplémentaires pour approfondir les notions abordées dans ce guide :
 
+- [Guide juridique sur l'utilisation de l'IA générative pour les données patrimoniales](https://www.ina.fr/hub-p/public/2026-04/Guide-juridique_IA_COMPLET_mars26.pdf)
 - [La stratégie du ministère de la culture pour des intelligences artificielles culturelles et responsables](https://www.culture.gouv.fr/thematiques/innovation-numerique/la-strategie-du-ministere-pour-des-intelligences-artificielles-culturelles-et-responsables)
 - [AI4LAM, communauté internationale consacrée aux usages de l'intelligence artificielle pour les bibliothèques, archives et musées](https://sites.google.com/view/ai4lam) - [Github de la communauté](https://github.com/AI4LAM)  
 - [Guide de planification des projets IA de la Librairie du Congrès Américaine](https://blogs.loc.gov/thesignal/2023/11/introducing-the-lc-labs-artificial-intelligence-planning-framework/)
