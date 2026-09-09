@@ -26,7 +26,7 @@ Par ailleurs, l’IA ne doit pas être perçue comme une solution « magique » 
 ## Note sur l'obsolescence du guide
 
 La rédaction de ce guide a commencé à l'été 2025 et a été publié pour la première fois en … 2026, les dernières modifications datent de … 2026.
-Du fait de l'évolution très rapide des technologies dans ce secteur, certains des projets et certaines des applications présentées dans ce guide peuvent être obsolètes au moment de sa consultationla lecture.
+Du fait de l'évolution très rapide des technologies dans ce secteur, certains des projets et certaines des applications présentées dans ce guide peuvent être obsolètes au moment de sa consultation la lecture.
 
 
 ### Quelques ressources supplémentaires pour approfondir les notions abordées dans ce guide :
